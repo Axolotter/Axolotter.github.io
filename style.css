@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/* we're going to do a class here:  */
+.whatever {
+  color: blue;
+  background-color: cyan;
+}
+/* IDs */
+#coolstuff {
+  font-family: Arial, Helvetica, sans-serif;
+  color: steelblue;
+}
+
+#notcoolstuff{
+  width: 100px;
+}
